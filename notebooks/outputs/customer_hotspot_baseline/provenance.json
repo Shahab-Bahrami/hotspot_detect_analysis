@@ -1,0 +1,28 @@
+{
+  "workbook": "data/customer/hotspot_master_2019_2023_2025_2026.xlsx",
+  "workbook_sha256": "e1ff93629b06a3b7f3ca305090c42e09e8eccd4010d3a313e08c1fc5d0a16a37",
+  "prediction_policy": "Every supplied hotspot is an alert; no original analytics predictions available.",
+  "include_sitrep_as_fire": true,
+  "deduplication_columns": [
+    "Longitude",
+    "Latitude",
+    "Tgl_Hotspot",
+    "Sumber",
+    "Satellite",
+    "Status",
+    "Region"
+  ],
+  "raw_nonblank_rows": 44269,
+  "exact_duplicates_removed": 324,
+  "unique_rows": 43945,
+  "years": [
+    2019,
+    2023,
+    2025,
+    2026
+  ],
+  "python": "3.9.6",
+  "pandas": "2.2.3",
+  "numpy": "2.0.2",
+  "matplotlib": "3.9.4"
+}

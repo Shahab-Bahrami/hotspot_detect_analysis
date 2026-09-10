@@ -1,0 +1,5 @@
+Longitude,Latitude,Tgl_Hotspot,Sumber,Satellite,Status,Region,source_sheet,excel_row,date,year,status_normalized
+103.36154,-1.02515,2026-07-29 01:00:00,NASA,NOAA20,Unverified,JAMBI SMF,Sheet1,324,2026-07-29 01:00:00,2026,unverified
+103.36038,-1.02273,2026-07-29 01:00:00,NASA,NOAA20,Unverified,JAMBI SMF,Sheet1,325,2026-07-29 01:00:00,2026,unverified
+103.36154,-1.02515,2026-07-29 01:00:00,NASA,NOAA20,Verified No fire,JAMBI SMF,2026,951,2026-07-29 01:00:00,2026,verified no fire
+103.36038,-1.02273,2026-07-29 01:00:00,NASA,NOAA20,Verified No fire,JAMBI SMF,2026,952,2026-07-29 01:00:00,2026,verified no fire
