@@ -1,0 +1,16 @@
+{
+  "fingerprint": "7fc470ba0a019449c2e6118557f5a1d1d9340961d43ee715ab7935f6203fd297",
+  "workbook_sha256": "e1ff93629b06a3b7f3ca305090c42e09e8eccd4010d3a313e08c1fc5d0a16a37",
+  "region_bbox": [
+    101.82584,
+    -4.0146,
+    106.03881836,
+    -0.73477989
+  ],
+  "matching_radius_km": 0.5,
+  "strict_radius_km": 0.1,
+  "utc_offset": 7,
+  "time_model": "floor",
+  "source_inventory": "input_inventory.csv",
+  "assumption": "Customer list membership is not an observed alert flag."
+}

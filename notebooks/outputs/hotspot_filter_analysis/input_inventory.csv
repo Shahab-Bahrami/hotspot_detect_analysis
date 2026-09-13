@@ -1,0 +1,7 @@
+file,year,rows,duplicates_removed,satellites,first_utc,last_utc,versions,sha256
+data/satelites/modis/2019/modis_2019_Indonesia.csv,2019,90475,0,"Aqua,Terra",2019-01-01 01:19:00,2019-12-31 17:00:00,6.03,049f010fb65375c1bd5020a0aeb00f0c0a93630585c8439e4979894bafee35ec
+data/satelites/modis/2023/modis_2023_Indonesia.csv,2023,52156,0,"Aqua,Terra",2023-01-01 06:40:00,2023-12-31 18:14:00,61.03,9f9d79cc84eefab271fc82e63b7c49309547a1c31639bfd8590be91d1eea7f1e
+data/satelites/viirs-jpss1/2019/viirs-jpss1_2019_Indonesia.csv,2019,437645,0,NOAA20,2019-01-01 05:01:00,2019-12-31 18:59:00,2,4a895f42a8a58e8715691d02c5ec524bdeb85bfac19a54f66ad983c91c3998c5
+data/satelites/viirs-jpss1/2023/viirs-jpss1_2023_Indonesia.csv,2023,250312,0,NOAA20,2023-01-01 05:08:00,2023-12-31 17:27:00,2,99969d975480ab57a129b02502b4b968ced195dc2c7fcaf947eb693ef7010fd7
+data/satelites/viirs-snpp/2019/viirs-snpp_2019_Indonesia.csv,2019,437281,0,SNPP,2019-01-01 04:10:00,2019-12-31 18:10:00,2,1dd309b8ae9dd74464f6fce4e0b61c261b7f39326c2dde3f029db55e22fe1a82
+data/satelites/viirs-snpp/2023/viirs-snpp_2023_Indonesia.csv,2023,253388,0,SNPP,2023-01-01 05:59:00,2023-12-31 18:17:00,2,2dba3b772b5a3a2cc0feed128af74637810021dd41dc34d584cb99b40411665a
